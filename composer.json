@@ -1,5 +1,5 @@
 {
-    "name": "paypal/rest-api-sdk-php",
+    "name": "gotrendier/paypal-php-sdk",
     "description": "PayPal's PHP SDK for REST APIs",
     "version": "1.0.0",
     "keywords": ["paypal", "payments", "rest", "sdk"],
