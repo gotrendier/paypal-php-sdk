@@ -1,6 +1,7 @@
 {
     "name": "paypal/rest-api-sdk-php",
     "description": "PayPal's PHP SDK for REST APIs",
+    "version": "1.0.0",
     "keywords": ["paypal", "payments", "rest", "sdk"],
     "type": "library",
     "license": "Apache-2.0",
